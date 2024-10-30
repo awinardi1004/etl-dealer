@@ -382,3 +382,87 @@ Please take a look at these docs to improve your DAG import time:
 [2024-10-30T04:57:26.176+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:26.167+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-10-30T04:57:26.248+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:26.247+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
 [2024-10-30T04:57:26.292+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.540 seconds
+[2024-10-30T04:57:57.318+0000] {processor.py:186} INFO - Started process (PID=183) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:57:57.321+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T04:57:57.324+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:57.323+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:57:59.034+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:57:59.109+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:59.109+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T04:57:59.176+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:59.175+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T04:57:59.220+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.935 seconds
+[2024-10-30T04:58:29.477+0000] {processor.py:186} INFO - Started process (PID=195) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:58:29.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T04:58:29.481+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:58:29.480+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:58:30.343+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:58:30.388+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:58:30.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T04:58:30.437+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:58:30.437+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T04:58:30.493+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.025 seconds
+[2024-10-30T04:59:00.708+0000] {processor.py:186} INFO - Started process (PID=206) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:59:00.710+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T04:59:00.713+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:00.712+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:59:01.397+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:59:01.431+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:01.430+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T04:59:01.463+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:01.463+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T04:59:01.571+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 0.880 seconds
+[2024-10-30T04:59:32.469+0000] {processor.py:186} INFO - Started process (PID=216) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:59:32.471+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T04:59:32.473+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:32.473+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:59:33.175+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T04:59:33.210+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:33.209+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T04:59:33.256+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:33.256+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T04:59:33.378+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 0.917 seconds
+[2024-10-30T05:00:03.727+0000] {processor.py:186} INFO - Started process (PID=227) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:00:03.729+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:00:03.733+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:03.733+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:00:04.630+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:00:04.686+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:04.685+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:00:04.734+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:04.734+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:00:04.800+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.091 seconds
+[2024-10-30T05:00:35.686+0000] {processor.py:186} INFO - Started process (PID=238) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:00:35.688+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:00:35.691+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:35.690+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:00:36.425+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:00:36.459+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:36.458+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:00:36.491+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:36.491+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:00:36.732+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.061 seconds
+[2024-10-30T05:01:07.560+0000] {processor.py:186} INFO - Started process (PID=248) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:01:07.565+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:01:07.586+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:07.584+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:01:08.467+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:01:08.500+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:08.500+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:01:08.538+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:08.537+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:01:08.661+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.134 seconds
+[2024-10-30T05:01:39.105+0000] {processor.py:186} INFO - Started process (PID=259) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:01:39.107+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:01:39.109+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:39.109+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:01:39.859+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:01:39.892+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:39.891+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:01:39.925+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:39.925+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:01:40.284+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.189 seconds
+[2024-10-30T05:02:10.503+0000] {processor.py:186} INFO - Started process (PID=270) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:02:10.505+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:02:10.507+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:10.507+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:02:11.162+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:02:11.200+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:11.199+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:02:11.233+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:11.232+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:02:11.263+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 0.775 seconds
+[2024-10-30T05:02:41.714+0000] {processor.py:186} INFO - Started process (PID=281) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:02:41.716+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:02:41.718+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:41.717+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:02:42.504+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:02:42.542+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:42.542+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:02:42.580+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:42.580+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:02:42.613+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 0.908 seconds
+[2024-10-30T05:03:13.281+0000] {processor.py:186} INFO - Started process (PID=292) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:03:13.284+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:03:13.296+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:13.295+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:03:16.991+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:03:17.088+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:17.087+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:03:17.190+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:17.182+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:03:17.265+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 4.022 seconds
+[2024-10-30T05:03:47.512+0000] {processor.py:186} INFO - Started process (PID=303) to work on /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:03:47.515+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/msql_to_pg.py for tasks to queue
+[2024-10-30T05:03:47.518+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:47.517+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:03:48.403+0000] {processor.py:925} INFO - DAG(s) 'mysql_to_postgres_etl' retrieved from /opt/airflow/dags/msql_to_pg.py
+[2024-10-30T05:03:48.440+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:48.440+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-30T05:03:48.501+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:48.500+0000] {dag.py:4180} INFO - Setting next_dagrun for mysql_to_postgres_etl to 2024-10-29 20:00:00+00:00, run_after=2024-10-30 20:00:00+00:00
+[2024-10-30T05:03:48.547+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/msql_to_pg.py took 1.047 seconds

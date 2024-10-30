@@ -388,3 +388,68 @@ sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate
 [2024-10-30T04:57:11.404+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:11.403+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
 [2024-10-30T04:57:11.423+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
 [2024-10-30T04:57:11.447+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.062 seconds
+[2024-10-30T04:57:42.189+0000] {processor.py:186} INFO - Started process (PID=176) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:57:42.191+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:57:42.193+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:42.192+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:57:42.210+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:57:42.229+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.052 seconds
+[2024-10-30T04:58:12.749+0000] {processor.py:186} INFO - Started process (PID=187) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:58:12.750+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:58:12.753+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:58:12.752+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:58:12.767+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:58:12.787+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.048 seconds
+[2024-10-30T04:58:43.057+0000] {processor.py:186} INFO - Started process (PID=199) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:58:43.059+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:58:43.064+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:58:43.063+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:58:43.095+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:58:43.145+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.112 seconds
+[2024-10-30T04:59:13.835+0000] {processor.py:186} INFO - Started process (PID=210) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:59:13.837+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:59:13.840+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:13.839+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:59:13.858+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:59:13.887+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.071 seconds
+[2024-10-30T04:59:44.911+0000] {processor.py:186} INFO - Started process (PID=220) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:59:44.913+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:59:44.917+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:59:44.916+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:59:44.942+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:59:45.000+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.120 seconds
+[2024-10-30T05:00:15.239+0000] {processor.py:186} INFO - Started process (PID=231) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:00:15.242+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:00:15.245+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:15.245+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:00:15.263+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:00:15.283+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.067 seconds
+[2024-10-30T05:00:45.924+0000] {processor.py:186} INFO - Started process (PID=242) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:00:45.925+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:00:45.928+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:00:45.927+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:00:45.942+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:00:45.964+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.052 seconds
+[2024-10-30T05:01:17.585+0000] {processor.py:186} INFO - Started process (PID=258) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:01:17.587+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:01:17.589+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:17.589+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:01:17.608+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:01:17.629+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.054 seconds
+[2024-10-30T05:01:47.924+0000] {processor.py:186} INFO - Started process (PID=269) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:01:47.925+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:01:47.929+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:01:47.928+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:01:47.943+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:01:47.961+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.054 seconds
+[2024-10-30T05:02:18.148+0000] {processor.py:186} INFO - Started process (PID=274) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:02:18.159+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:02:18.164+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:18.162+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:02:18.189+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:02:18.252+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.115 seconds
+[2024-10-30T05:02:48.571+0000] {processor.py:186} INFO - Started process (PID=291) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:02:48.573+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:02:48.575+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:02:48.574+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:02:48.591+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:02:48.611+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.049 seconds
+[2024-10-30T05:03:19.289+0000] {processor.py:186} INFO - Started process (PID=301) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:03:19.291+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:03:19.294+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:19.294+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:03:19.331+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:03:19.452+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.188 seconds
+[2024-10-30T05:03:49.611+0000] {processor.py:186} INFO - Started process (PID=311) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:03:49.613+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T05:03:49.615+0000] {logging_mixin.py:190} INFO - [2024-10-30T05:03:49.614+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:03:49.631+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T05:03:49.649+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.048 seconds
