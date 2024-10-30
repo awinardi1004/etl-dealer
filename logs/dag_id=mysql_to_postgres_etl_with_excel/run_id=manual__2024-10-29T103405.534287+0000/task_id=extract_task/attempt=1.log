@@ -1,0 +1,21 @@
+[2024-10-29T10:34:14.898+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-29T10:34:14.951+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: mysql_to_postgres_etl_with_excel.extract_task manual__2024-10-29T10:34:05.534287+00:00 [queued]>
+[2024-10-29T10:34:14.969+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: mysql_to_postgres_etl_with_excel.extract_task manual__2024-10-29T10:34:05.534287+00:00 [queued]>
+[2024-10-29T10:34:14.970+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-29T10:34:15.021+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): extract_task> on 2024-10-29 10:34:05.534287+00:00
+[2024-10-29T10:34:15.036+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=374) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-10-29T10:34:15.048+0000] {standard_task_runner.py:72} INFO - Started process 378 to run task
+[2024-10-29T10:34:15.054+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'mysql_to_postgres_etl_with_excel', 'extract_task', 'manual__2024-10-29T10:34:05.534287+00:00', '--job-id', '146', '--raw', '--subdir', 'DAGS_FOLDER/etl_to_pg.py', '--cfg-path', '/tmp/tmplgi2azl0']
+[2024-10-29T10:34:15.068+0000] {standard_task_runner.py:105} INFO - Job 146: Subtask extract_task
+[2024-10-29T10:34:15.252+0000] {task_command.py:467} INFO - Running <TaskInstance: mysql_to_postgres_etl_with_excel.extract_task manual__2024-10-29T10:34:05.534287+00:00 [running]> on host 3b749a0384c4
+[2024-10-29T10:34:15.653+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='mysql_to_postgres_etl_with_excel' AIRFLOW_CTX_TASK_ID='extract_task' AIRFLOW_CTX_EXECUTION_DATE='2024-10-29T10:34:05.534287+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-10-29T10:34:05.534287+00:00'
+[2024-10-29T10:34:15.656+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-10-29T10:34:15.868+0000] {base.py:84} INFO - Retrieving connection 'mysql_conn'
+[2024-10-29T10:34:17.884+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-10-29T10:34:17.913+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-29T10:34:17.915+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=mysql_to_postgres_etl_with_excel, task_id=extract_task, run_id=manual__2024-10-29T10:34:05.534287+00:00, execution_date=20241029T103405, start_date=20241029T103414, end_date=20241029T103417
+[2024-10-29T10:34:17.999+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-10-29T10:34:18.050+0000] {taskinstance.py:3900} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-10-29T10:34:18.058+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

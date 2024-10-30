@@ -1,0 +1,390 @@
+[2024-10-30T03:38:24.821+0000] {processor.py:186} INFO - Started process (PID=417) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:38:24.823+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:38:24.857+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:38:24.835+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:38:24.921+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:43:08.453+0000] {processor.py:186} INFO - Started process (PID=42) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:43:08.462+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:43:08.502+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:43:08.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:43:08.545+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:43:08.707+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.311 seconds
+[2024-10-30T03:43:48.445+0000] {processor.py:186} INFO - Started process (PID=53) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:43:48.460+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:43:48.564+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:43:48.485+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:43:48.789+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:43:49.002+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.578 seconds
+[2024-10-30T03:44:19.180+0000] {processor.py:186} INFO - Started process (PID=64) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:44:19.183+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:44:19.189+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:44:19.188+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:44:19.232+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:44:19.296+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.134 seconds
+[2024-10-30T03:44:49.751+0000] {processor.py:186} INFO - Started process (PID=73) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:44:49.756+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:44:49.763+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:44:49.762+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:44:49.784+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:44:49.818+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.085 seconds
+[2024-10-30T03:45:20.874+0000] {processor.py:186} INFO - Started process (PID=84) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:45:20.876+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:45:20.881+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:45:20.880+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:45:20.903+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:45:20.926+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.065 seconds
+[2024-10-30T03:45:51.541+0000] {processor.py:186} INFO - Started process (PID=95) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:45:51.542+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:45:51.548+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:45:51.547+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:45:51.570+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:45:53.195+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 1.684 seconds
+[2024-10-30T03:46:23.956+0000] {processor.py:186} INFO - Started process (PID=105) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:46:23.958+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:46:24.040+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:46:24.039+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:46:24.213+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:46:24.332+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.385 seconds
+[2024-10-30T03:46:54.597+0000] {processor.py:186} INFO - Started process (PID=114) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:46:54.599+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:46:54.603+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:46:54.602+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:46:54.621+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:46:54.656+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.077 seconds
+[2024-10-30T03:47:25.484+0000] {processor.py:186} INFO - Started process (PID=126) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:47:25.485+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:47:25.488+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:47:25.487+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:47:25.514+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:47:25.935+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.461 seconds
+[2024-10-30T03:47:56.133+0000] {processor.py:186} INFO - Started process (PID=137) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:47:56.134+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:47:56.136+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:47:56.136+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:47:56.152+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:47:56.175+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.053 seconds
+[2024-10-30T03:48:37.058+0000] {processor.py:186} INFO - Started process (PID=142) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:48:37.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T03:48:37.335+0000] {logging_mixin.py:190} INFO - [2024-10-30T03:48:37.148+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:48:37.675+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T03:48:37.908+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.952 seconds
+[2024-10-30T04:04:56.826+0000] {processor.py:186} INFO - Started process (PID=47) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:04:56.829+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:04:56.965+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:04:56.927+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:04:57.081+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:04:57.798+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 1.000 seconds
+[2024-10-30T04:05:37.803+0000] {processor.py:186} INFO - Started process (PID=58) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:05:37.805+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:05:37.939+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:05:37.819+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:05:37.996+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:05:38.060+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.300 seconds
+[2024-10-30T04:06:13.259+0000] {processor.py:186} INFO - Started process (PID=69) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:06:13.262+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:06:13.268+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:06:13.267+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:06:13.290+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:06:13.318+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.071 seconds
+[2024-10-30T04:06:45.132+0000] {processor.py:186} INFO - Started process (PID=80) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:06:45.134+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:06:45.138+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:06:45.138+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:06:45.156+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:06:45.178+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.058 seconds
+[2024-10-30T04:07:17.528+0000] {processor.py:186} INFO - Started process (PID=91) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:07:17.530+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:07:17.535+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:07:17.534+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:07:17.551+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:07:17.577+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.063 seconds
+[2024-10-30T04:07:50.984+0000] {processor.py:186} INFO - Started process (PID=102) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:07:50.986+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:07:50.989+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:07:50.988+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:07:51.007+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:07:51.026+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.053 seconds
+[2024-10-30T04:08:21.642+0000] {processor.py:186} INFO - Started process (PID=110) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:08:21.644+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:08:21.647+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:08:21.646+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:08:21.666+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:08:21.703+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.075 seconds
+[2024-10-30T04:08:52.287+0000] {processor.py:186} INFO - Started process (PID=118) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:08:52.290+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:08:52.293+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:08:52.292+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:08:52.313+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:08:52.335+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.059 seconds
+[2024-10-30T04:09:22.806+0000] {processor.py:186} INFO - Started process (PID=127) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:09:22.807+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:09:22.809+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:09:22.809+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:09:22.823+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:09:22.845+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.048 seconds
+[2024-10-30T04:09:53.135+0000] {processor.py:186} INFO - Started process (PID=138) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:09:53.137+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:09:53.139+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:09:53.139+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:09:53.158+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:09:53.178+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.197 seconds
+[2024-10-30T04:10:23.561+0000] {processor.py:186} INFO - Started process (PID=149) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:10:23.563+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:10:23.565+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:10:23.564+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:10:23.580+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:10:23.599+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.047 seconds
+[2024-10-30T04:10:54.268+0000] {processor.py:186} INFO - Started process (PID=166) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:10:54.270+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:10:54.272+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:10:54.272+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:10:54.291+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:10:54.323+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.068 seconds
+[2024-10-30T04:11:24.811+0000] {processor.py:186} INFO - Started process (PID=177) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:11:24.812+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:11:24.816+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:11:24.815+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:11:24.831+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:11:24.848+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.050 seconds
+[2024-10-30T04:11:55.423+0000] {processor.py:186} INFO - Started process (PID=186) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:11:55.425+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:11:55.428+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:11:55.427+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:11:55.446+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:11:55.468+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.063 seconds
+[2024-10-30T04:12:27.896+0000] {processor.py:186} INFO - Started process (PID=195) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:12:27.939+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:12:27.953+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:12:27.952+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:12:28.388+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:12:28.645+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 1.038 seconds
+[2024-10-30T04:16:18.457+0000] {processor.py:186} INFO - Started process (PID=204) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:16:18.469+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:16:18.479+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:16:18.478+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:16:18.508+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:24:56.903+0000] {processor.py:186} INFO - Started process (PID=47) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:24:56.905+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:24:56.921+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:24:56.920+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:24:56.955+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:24:56.990+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.102 seconds
+[2024-10-30T04:25:33.831+0000] {processor.py:186} INFO - Started process (PID=74) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:25:33.833+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:25:33.838+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:25:33.836+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:25:33.859+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:25:33.884+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.063 seconds
+[2024-10-30T04:32:57.988+0000] {processor.py:186} INFO - Started process (PID=46) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:32:58.001+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:32:58.038+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:32:58.037+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:32:58.257+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:32:58.299+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.330 seconds
+[2024-10-30T04:33:38.453+0000] {processor.py:186} INFO - Started process (PID=58) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:33:38.479+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:33:38.488+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:33:38.485+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:33:38.551+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:33:38.608+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.179 seconds
+[2024-10-30T04:34:10.499+0000] {processor.py:186} INFO - Started process (PID=68) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:34:10.501+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:34:10.505+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:34:10.505+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:34:10.526+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:34:10.550+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.061 seconds
+[2024-10-30T04:41:46.897+0000] {processor.py:186} INFO - Started process (PID=48) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:41:46.907+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:41:46.929+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:41:46.928+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:41:46.994+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:41:47.039+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.157 seconds
+[2024-10-30T04:42:26.680+0000] {processor.py:186} INFO - Started process (PID=59) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:42:26.693+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:42:26.746+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:42:26.701+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:42:26.786+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:42:26.845+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.190 seconds
+[2024-10-30T04:42:57.330+0000] {processor.py:186} INFO - Started process (PID=68) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:42:57.334+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:42:57.345+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:42:57.344+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:42:57.440+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:42:58.053+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.738 seconds
+[2024-10-30T04:43:54.090+0000] {processor.py:186} INFO - Started process (PID=71) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:43:54.093+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:43:54.266+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:43:54.133+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:43:54.600+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:44:05.210+0000] {processor.py:211} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3371, in _wrap_pool_connect
+    return fn()
+           ^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 690, in __connect
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 574, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "postgres" to address: Temporary failure in name resolution
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 207, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 188, in _handle_dag_file_processing
+    result: tuple[int, int, int] = dag_file_processor.process_file(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 928, in process_file
+    DagFileProcessor.update_import_errors(
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/api_internal/internal_api_call.py", line 139, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 641, in update_import_errors
+    session.execute(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1716, in execute
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1555, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 750, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/future/engine.py", line 412, in connect
+    return super(Engine, self).connect()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3325, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3404, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3374, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2208, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3371, in _wrap_pool_connect
+    return fn()
+           ^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 690, in __connect
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 574, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "postgres" to address: Temporary failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2024-10-30T04:51:34.522+0000] {processor.py:186} INFO - Started process (PID=42) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:51:34.527+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:51:34.547+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:51:34.537+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:51:34.587+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:51:34.633+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.122 seconds
+[2024-10-30T04:52:06.816+0000] {processor.py:186} INFO - Started process (PID=52) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:52:06.818+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:52:06.824+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:52:06.823+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:52:06.849+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:52:06.875+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.076 seconds
+[2024-10-30T04:52:37.178+0000] {processor.py:186} INFO - Started process (PID=60) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:52:37.184+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:52:37.189+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:52:37.189+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:52:37.214+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:52:37.252+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.085 seconds
+[2024-10-30T04:53:07.735+0000] {processor.py:186} INFO - Started process (PID=73) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:53:07.738+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:53:07.743+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:53:07.743+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:53:07.768+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:53:07.826+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.114 seconds
+[2024-10-30T04:53:38.159+0000] {processor.py:186} INFO - Started process (PID=86) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:53:38.161+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:53:38.175+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:53:38.174+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:53:38.204+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:53:38.277+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.145 seconds
+[2024-10-30T04:54:08.961+0000] {processor.py:186} INFO - Started process (PID=98) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:54:08.963+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:54:08.967+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:54:08.966+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:54:08.980+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:54:09.000+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.051 seconds
+[2024-10-30T04:54:39.303+0000] {processor.py:186} INFO - Started process (PID=109) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:54:39.304+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:54:39.306+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:54:39.306+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:54:39.584+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:54:39.602+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.310 seconds
+[2024-10-30T04:55:09.882+0000] {processor.py:186} INFO - Started process (PID=120) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:55:09.884+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:55:09.887+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:55:09.887+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:55:09.909+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:55:09.934+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.070 seconds
+[2024-10-30T04:55:40.295+0000] {processor.py:186} INFO - Started process (PID=133) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:55:40.297+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:55:40.299+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:55:40.299+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:55:40.315+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:55:40.335+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.053 seconds
+[2024-10-30T04:56:10.833+0000] {processor.py:186} INFO - Started process (PID=142) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:56:10.834+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:56:10.837+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:56:10.837+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:56:10.851+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:56:10.871+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.047 seconds
+[2024-10-30T04:56:41.219+0000] {processor.py:186} INFO - Started process (PID=153) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:56:41.222+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:56:41.225+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:56:41.225+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:56:41.258+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:56:41.278+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.072 seconds
+[2024-10-30T04:57:11.399+0000] {processor.py:186} INFO - Started process (PID=166) to work on /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:57:11.401+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/datasets/Financial_Sample.xlsx for tasks to queue
+[2024-10-30T04:57:11.404+0000] {logging_mixin.py:190} INFO - [2024-10-30T04:57:11.403+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:57:11.423+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/datasets/Financial_Sample.xlsx
+[2024-10-30T04:57:11.447+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/datasets/Financial_Sample.xlsx took 0.062 seconds

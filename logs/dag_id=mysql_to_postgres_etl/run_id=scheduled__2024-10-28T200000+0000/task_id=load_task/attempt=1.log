@@ -1,0 +1,21 @@
+[2024-10-29T22:11:31.620+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-10-29T22:11:31.653+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: mysql_to_postgres_etl.load_task scheduled__2024-10-28T20:00:00+00:00 [queued]>
+[2024-10-29T22:11:31.673+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: mysql_to_postgres_etl.load_task scheduled__2024-10-28T20:00:00+00:00 [queued]>
+[2024-10-29T22:11:31.675+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-10-29T22:11:31.711+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): load_task> on 2024-10-28 20:00:00+00:00
+[2024-10-29T22:11:31.723+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=81) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-10-29T22:11:31.726+0000] {standard_task_runner.py:72} INFO - Started process 83 to run task
+[2024-10-29T22:11:31.727+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'mysql_to_postgres_etl', 'load_task', 'scheduled__2024-10-28T20:00:00+00:00', '--job-id', '201', '--raw', '--subdir', 'DAGS_FOLDER/mysql_to_pg.py', '--cfg-path', '/tmp/tmpddl7tb71']
+[2024-10-29T22:11:31.741+0000] {standard_task_runner.py:105} INFO - Job 201: Subtask load_task
+[2024-10-29T22:11:31.838+0000] {task_command.py:467} INFO - Running <TaskInstance: mysql_to_postgres_etl.load_task scheduled__2024-10-28T20:00:00+00:00 [running]> on host d03394a4d6c1
+[2024-10-29T22:11:32.035+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='mysql_to_postgres_etl' AIRFLOW_CTX_TASK_ID='load_task' AIRFLOW_CTX_EXECUTION_DATE='2024-10-28T20:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-10-28T20:00:00+00:00'
+[2024-10-29T22:11:32.037+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-10-29T22:11:32.124+0000] {base.py:84} INFO - Retrieving connection 'postgre_conn'
+[2024-10-29T22:11:32.298+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-10-29T22:11:32.335+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-10-29T22:11:32.336+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=mysql_to_postgres_etl, task_id=load_task, run_id=scheduled__2024-10-28T20:00:00+00:00, execution_date=20241028T200000, start_date=20241029T221131, end_date=20241029T221132
+[2024-10-29T22:11:32.432+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-10-29T22:11:32.465+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-10-29T22:11:32.490+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
