@@ -18971,3 +18971,299 @@ File Path                                         PID    Runtime      # DAGs    
 /opt/airflow/dags/csv_to_pg.py                                             1           0  1.50s           2024-10-30T04:57:00                      12
 /opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.10s           2024-10-30T04:57:11                       3
 ================================================================================
+[2024-10-30T04:57:50.614+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.58s           2024-10-30T04:57:26                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.27s           2024-10-30T04:57:32                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.09s           2024-10-30T04:57:42                       3
+================================================================================
+[2024-10-30T04:58:20.949+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  2.07s           2024-10-30T04:57:59                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.92s           2024-10-30T04:58:05                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.08s           2024-10-30T04:58:12                       3
+================================================================================
+[2024-10-30T04:58:51.199+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.15s           2024-10-30T04:58:36                      12
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.07s           2024-10-30T04:58:30                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.22s           2024-10-30T04:58:43                       3
+================================================================================
+[2024-10-30T04:59:22.116+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.07s           2024-10-30T04:59:08                      12
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.96s           2024-10-30T04:59:01                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.11s           2024-10-30T04:59:13                       3
+================================================================================
+[2024-10-30T04:59:52.255+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.96s           2024-10-30T04:59:33                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.91s           2024-10-30T04:59:40                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.23s           2024-10-30T04:59:45                       3
+================================================================================
+[2024-10-30T05:00:22.255+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.19s           2024-10-30T05:00:04                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.86s           2024-10-30T05:00:11                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.14s           2024-10-30T05:00:15                       3
+================================================================================
+[2024-10-30T05:00:53.049+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.12s           2024-10-30T05:00:36                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.86s           2024-10-30T05:00:42                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.08s           2024-10-30T05:00:45                       3
+================================================================================
+[2024-10-30T05:01:16.742+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-10-30T05:01:17.382+0000] {manager.py:824} INFO - There are 3 files in /opt/airflow/dags
+[2024-10-30T05:01:23.776+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.26s           2024-10-30T05:01:08                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.86s           2024-10-30T05:01:13                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.09s           2024-10-30T05:01:17                       3
+================================================================================
+[2024-10-30T05:01:54.064+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.39s           2024-10-30T05:01:45                      12
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.24s           2024-10-30T05:01:40                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.09s           2024-10-30T05:01:47                       3
+================================================================================
+[2024-10-30T05:02:24.287+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.85s           2024-10-30T05:02:11                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.62s           2024-10-30T05:02:17                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.15s           2024-10-30T05:02:18                       3
+================================================================================
+[2024-10-30T05:02:54.751+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.94s           2024-10-30T05:02:42                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.71s           2024-10-30T05:02:48                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.08s           2024-10-30T05:02:48                       3
+================================================================================
+[2024-10-30T05:03:24.783+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  4.16s           2024-10-30T05:03:17                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.40s           2024-10-30T05:03:20                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.27s           2024-10-30T05:03:19                       3
+================================================================================
+[2024-10-30T05:03:55.469+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.09s           2024-10-30T05:03:48                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.68s           2024-10-30T05:03:51                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.08s           2024-10-30T05:03:49                       3
+================================================================================
+[2024-10-30T05:04:26.378+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.97s           2024-10-30T05:04:22                      12
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.95s           2024-10-30T05:04:20                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.08s           2024-10-30T05:04:20                       3
+================================================================================
+[2024-10-30T05:04:56.974+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.59s           2024-10-30T05:04:55                      12
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.30s           2024-10-30T05:04:52                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.21s           2024-10-30T05:04:51                       3
+================================================================================
+[2024-10-30T05:05:27.649+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.80s           2024-10-30T05:05:24                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.21s           2024-10-30T05:05:26                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.08s           2024-10-30T05:05:21                       3
+================================================================================
+[2024-10-30T05:05:58.330+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.06s           2024-10-30T05:05:56                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.76s           2024-10-30T05:05:58                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.19s           2024-10-30T05:05:52                       3
+================================================================================
+[2024-10-30T05:06:16.770+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-10-30T05:06:17.096+0000] {manager.py:824} INFO - There are 3 files in /opt/airflow/dags
+[2024-10-30T05:06:28.445+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.92s           2024-10-30T05:06:28                      12
+/opt/airflow/dags/csv_to_pg.py                      368  0.00s             1           0  0.76s           2024-10-30T05:05:58                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.09s           2024-10-30T05:06:23                       3
+================================================================================
+[2024-10-30T05:06:58.919+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                     378  0.00s             1           0  0.92s           2024-10-30T05:06:28                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.67s           2024-10-30T05:06:29                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.11s           2024-10-30T05:06:53                       3
+================================================================================
+[2024-10-30T05:07:29.294+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.92s           2024-10-30T05:06:59                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.75s           2024-10-30T05:07:00                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.12s           2024-10-30T05:07:24                       3
+================================================================================
+[2024-10-30T05:07:59.743+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.91s           2024-10-30T05:07:31                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.66s           2024-10-30T05:07:31                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.18s           2024-10-30T05:07:54                       3
+================================================================================
+[2024-10-30T05:08:29.826+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.33s           2024-10-30T05:08:03                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.02s           2024-10-30T05:08:03                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.14s           2024-10-30T05:08:25                       3
+================================================================================
+[2024-10-30T05:08:59.983+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.38s           2024-10-30T05:08:35                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.05s           2024-10-30T05:08:34                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.14s           2024-10-30T05:08:56                       3
+================================================================================
+[2024-10-30T05:09:30.737+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.34s           2024-10-30T05:09:06                      12
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.09s           2024-10-30T05:09:07                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.10s           2024-10-30T05:09:26                       3
+================================================================================
+[2024-10-30T05:10:00.762+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.27s           2024-10-30T05:09:39                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.74s           2024-10-30T05:09:37                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.16s           2024-10-30T05:09:57                       3
+================================================================================
+[2024-10-30T05:10:30.822+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.20s           2024-10-30T05:10:09                      12
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.87s           2024-10-30T05:10:09                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.18s           2024-10-30T05:10:28                       3
+================================================================================
+[2024-10-30T05:11:01.344+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  0.89s           2024-10-30T05:10:40                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.68s           2024-10-30T05:10:40                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.09s           2024-10-30T05:10:59                       3
+================================================================================
+[2024-10-30T05:11:16.866+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-10-30T05:11:16.980+0000] {manager.py:824} INFO - There are 3 files in /opt/airflow/dags
+[2024-10-30T05:11:31.626+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.23s           2024-10-30T05:11:12                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  0.97s           2024-10-30T05:11:12                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.16s           2024-10-30T05:11:30                       3
+================================================================================
+[2024-10-30T05:12:01.667+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/msql_to_pg.py                                            1           0  1.29s           2024-10-30T05:11:44                      12
+/opt/airflow/dags/csv_to_pg.py                                             1           0  1.00s           2024-10-30T05:11:43                      12
+/opt/airflow/dags/datasets/Financial_Sample.xlsx                           0           0  0.09s           2024-10-30T05:12:01                       3
+================================================================================
