@@ -46,7 +46,7 @@ def transform_data(**kwargs):
     ti = kwargs['ti']
     extracted_data = ti.xcom_pull(key='extracted_data', task_ids='extract_task')
     
-    columns = ['sales_id', 'purchase_date', 'motorcycle_name', 'motorcycle_group', 'dealer_origin', 'price', 'qty', 'total']  # Update with actual column names
+    columns = ['sales_id', 'purchase_date', 'motorcycle_name', 'motorcycle_group', 'dealer_origin', 'price', 'qty', 'total'] 
     df = pd.DataFrame(extracted_data, columns=columns)
     
     df['purchase_date'] = pd.to_datetime(df['purchase_date'])
